@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/DesctopClient/.idea/
+/DesctopClient/bin/
+/DesctopClient/cmake-build-debug/
+/DesctopClient/cmake-build-release/
