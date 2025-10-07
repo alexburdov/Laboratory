@@ -18,7 +18,8 @@ set(PROJECT_SOURCES
         include/gui/mainwindow.h
 )
 
-qt_add_executable(DesctopClient MANUAL_FINALIZATION ${PROJECT_SOURCES})
+qt_add_executable(DesctopClient MANUAL_FINALIZATION ${PROJECT_SOURCES}
+    main.qrc)
 
 target_link_libraries(DesctopClient PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
 

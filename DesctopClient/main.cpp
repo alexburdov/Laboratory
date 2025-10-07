@@ -1,3 +1,7 @@
+//
+// Created by Aleksandr Burdovitzin on 06.10.2025.
+//
+
 #include <QApplication>
 
 #include "include/gui/mainwindow.h"

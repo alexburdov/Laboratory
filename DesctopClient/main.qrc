@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icons/bitumen.png</file>
+        <file>res/icons/certificate.png</file>
+        <file>res/icons/choice.png</file>
+        <file>res/icons/crushed.png</file>
+        <file>res/icons/laboratory.png</file>
+        <file>res/icons/manufacturer.png</file>
+        <file>res/icons/mixture.png</file>
+        <file>res/icons/powder.png</file>
+        <file>res/icons/rocks.png</file>
+        <file>res/icons/sand.png</file>
+        <file>res/icons/sand2.png</file>
+        <file>res/icons/search.png</file>
+    </qresource>
+</RCC>
