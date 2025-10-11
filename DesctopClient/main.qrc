@@ -1,16 +1,58 @@
 <RCC>
     <qresource prefix="/">
-        <file>res/icons/bitumen.png</file>
-        <file>res/icons/certificate.png</file>
-        <file>res/icons/choice.png</file>
-        <file>res/icons/crushed.png</file>
-        <file>res/icons/laboratory.png</file>
-        <file>res/icons/manufacturer.png</file>
-        <file>res/icons/mixture.png</file>
-        <file>res/icons/powder.png</file>
         <file>res/icons/rocks.png</file>
         <file>res/icons/sand.png</file>
-        <file>res/icons/sand2.png</file>
+        <file>res/icons/crushed.png</file>
+        <file>res/icons/powder.png</file>
+
         <file>res/icons/search.png</file>
+
+        <file>res/icons/rocks_kind.png</file>
+        <file>res/icons/manufacturer.png</file>
+        <file>res/icons/test_organization.png</file>
+        <file>res/icons/certificate_center.png</file>
+
+        <file>res/icons/choice.png</file>
+        <file>res/icons/export.png</file>
+        <file>res/icons/import.png</file>
+
+        <file>res/icons/bitumen.png</file>
+        <file>res/icons/bitumen_grades.png</file>
+        <file>res/icons/document_list.png</file>
+        <file>res/icons/modifying_additives.png</file>
+
+        <file>res/icons/asphalt_concrete.png</file>
+        <file>res/icons/felling.png</file>
+        <file>res/icons/requirements.png</file>
+        <file>res/icons/materials_type.png</file>
+        <file>res/icons/highways.png</file>
+
+        <file>res/icons/compaction.png</file>
+        <file>res/icons/cohesive_soils.png</file>
+        <file>res/icons/uncohesive_soils.png</file>
+        <file>res/icons/type_of_soil.png</file>
+
+        <file>res/icons/selection_of_materials.png</file>
+        <file>res/icons/curve.png</file>
+        <file>res/icons/type_ac_mixed.png</file>
+
+        <file>res/icons/test_facilities.png</file>
+        <file>res/icons/test_equipment.png</file>
+        <file>res/icons/auxiliary_equipment.png</file>
+        <file>res/icons/standart_samples.png</file>
+        <file>res/icons/country_list.png</file>
+        <file>res/icons/factory_list.png</file>
+        <file>res/icons/list_of_measured_quantities.png</file>
+        <file>res/icons/type_of_documents.png</file>
+        <file>res/icons/type_of_control.png</file>
+        <file>res/icons/metrological_control.png</file>
+        <file>res/icons/category_so.png</file>
+
+        <file>res/icons/quit.png</file>
+
+        <file>res/icons/settings.png</file>
+        <file>res/icons/license.png</file>
+        <file>res/icons/about.png</file>
+
     </qresource>
 </RCC>
